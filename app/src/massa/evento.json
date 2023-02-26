@@ -1,0 +1,14 @@
+{
+  "data": {
+    "nome_livro": "O escantador de livros",
+    "informacao_produto": "Aventure-se na Cidade dos Livros! Um lugar mágico, onde a leitura é mais que uma paixão.",
+    "ficha_tecnica": {
+      "codigo": 12345,
+      "codigo_barras": 79813101212023,
+      "isbn_10": 8568925332,
+      "isbn_13": 9788568925331,
+      "Tipo de Produto": "livro"
+
+    }
+  }
+}
